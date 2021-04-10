@@ -1,15 +1,17 @@
 
 
-<a src = "https://github.com/anuj1501/Remaining-Useful-Life-of-ball-bearing-using-Hilbert-Huang-Entropy/blob/master/IEEEPHM2012-Challenge-Details.pdf">PHM IEEE 2012 Data Challenge<a/>
+# PHM IEEE 2012 Data Challenge
+-----
+[IEEEPHM2012-Challenge-Details.pdf](PHM-IEEE-2012-Data-Challenge)
 
-The link to the dataset: <a src = "https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset">Dataset<a/>
+## The link to the dataset: "https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset"
 
 The set contains a training set of 6 rolling bearings that were operated in three different conditions, and a testing set of 11 more. See the added PDF file for all the info of the challenge and the set.
 
 The following repository contains the implemented solution to the challenge using the paper "Predicting Remaining Useful Life Based on Hilbert–Huang
 Entropy with Degradation Model".
 
-Link of the paper : <a src = "https://www.hindawi.com/journals/jece/2019/3203959/">Paper<a/>
+## Link of the paper : https://www.hindawi.com/journals/jece/2019/3203959/
 
 ## License
 
