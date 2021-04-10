@@ -12,7 +12,7 @@ The set contains a training set of 6 rolling bearings that were operated in thre
 The following repository contains the implemented solution to the challenge using the paper "Predicting Remaining Useful Life Based on Hilbert–Huang
 Entropy with Degradation Model".
 
-## Link of the paper: 
+## Link to the paper: 
 https://www.hindawi.com/journals/jece/2019/3203959/
 
 ## License
