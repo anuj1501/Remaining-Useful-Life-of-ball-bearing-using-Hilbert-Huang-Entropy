@@ -1,7 +1,7 @@
 
 
 # PHM IEEE 2012 Data Challenge
------
+
 [IEEEPHM2012-Challenge-Details.pdf](PHM-IEEE-2012-Data-Challenge)
 
 ## The link to the dataset: "https://github.com/wkzs111/phm-ieee-2012-data-challenge-dataset"
